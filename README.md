@@ -1,0 +1,2 @@
+# gogit
+git in go
